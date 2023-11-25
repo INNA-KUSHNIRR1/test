@@ -1,0 +1,26 @@
+.heder {
+  background: var(--White, #fefefe);
+}
+
+.hero {
+  background: var(--White, #fefefe);
+}
+.offerings {
+  background-color: #ffe550;
+}
+
+.favorites {
+  background: var(--White, #fefefe);
+}
+
+.reviews {
+  background: #ffe550;
+}
+
+.special-offers {
+  background: var(--White, #fefefe);
+}
+
+.footer {
+  background: var(--White, #fefefe);
+}
